@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://hoangphuong965:p2351998@blog.xw1wy.mongodb.net/blog?retryWrites=true&w=majority",
+    "jwtSecret":"kjbsdkjndssdbysdhjbdjs"
+}
